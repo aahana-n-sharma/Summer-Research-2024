@@ -1,5 +1,6 @@
 # Summer-Research-2024
 Microneedles-mediated transdermal drug delivery techniques in modern medicine
+Here's a table showing a comparison between the different transdermal drug delivery methods and technologies:
 | Delivery Method | Active Ingredient | Advantages | Disadvantages | Clinical Applications |
 | --- | --- | --- | --- | --- |
 | Iontophoresis | Acetylsalicylic acid, Acidulated phosphate fluoride, Aciclovir, Aciclovir prodrugs, Amikacin, Amikacin sulphate, 5-Aminolevulinic acid, Amoxicillin, Cefuroxime, Celecoxib, Ciprofloxacin, Ciprofloxacin hydrochloride, Cupral, Curcumin,Dexamethasone, Diclofenac, Diclofenac sodium, Ibuprofen, Indemethacin, Fentanyl hydrochloride, 5-Fluorouracil | This method is safe to use overall, exhibits high transdermal efficiency, and has a simple application process. | Side effects such as redness, skin irritation, and even burns can be caused by direct currents. Additionally, only potent molecules can be delivered by this method. | Iontophoresis can be used in local anesthetics, steroids, opioids, non-steroidal anti-inflammatory drugs, antibacterial drugs, antifungal drugs, antiviral drugs, anticancer drugs, fluorides, and vitamins. |
