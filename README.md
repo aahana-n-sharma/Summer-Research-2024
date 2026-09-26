@@ -1,5 +1,5 @@
 # Summer-Research-2024
-Microneedles-mediated transdermal drug delivery techniques in modern medicine
+Microneedles-mediated transdermal drug delivery techniques in modern medicine, published in the JKLST.
 Here's a table showing a comparison between the different transdermal drug delivery methods and technologies:
 | Delivery Method | Active Ingredient | Advantages | Disadvantages | Clinical Applications |
 | --- | --- | --- | --- | --- |
